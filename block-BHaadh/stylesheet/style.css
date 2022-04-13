@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(233, 233, 69, 0.712);
+}/*# sourceMappingURL=style.css.map */
